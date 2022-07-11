@@ -1,0 +1,28 @@
+E:\Software\Fldr\BookStore day 9\BookStore.Models\bin\Debug\net6.0\BookStore.Models.deps.json
+E:\Software\Fldr\BookStore day 9\BookStore.Models\bin\Debug\net6.0\BookStore.Models.runtimeconfig.json
+E:\Software\Fldr\BookStore day 9\BookStore.Models\bin\Debug\net6.0\BookStore.Models.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Models\bin\Debug\net6.0\BookStore.Models.pdb
+E:\Software\Fldr\BookStore day 9\BookStore.Models\obj\Debug\net6.0\BookStore.Models.csproj.AssemblyReference.cache
+E:\Software\Fldr\BookStore day 9\BookStore.Models\obj\Debug\net6.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software\Fldr\BookStore day 9\BookStore.Models\obj\Debug\net6.0\BookStore.Models.AssemblyInfoInputs.cache
+E:\Software\Fldr\BookStore day 9\BookStore.Models\obj\Debug\net6.0\BookStore.Models.AssemblyInfo.cs
+E:\Software\Fldr\BookStore day 9\BookStore.Models\obj\Debug\net6.0\BookStore.Models.csproj.CoreCompileInputs.cache
+E:\Software\Fldr\BookStore day 9\BookStore.Models\obj\Debug\net6.0\BookStore.Models.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Models\obj\Debug\net6.0\refint\BookStore.Models.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Models\obj\Debug\net6.0\BookStore.Models.pdb
+E:\Software\Fldr\BookStore day 9\BookStore.Models\obj\Debug\net6.0\BookStore.Models.genruntimeconfig.cache
+E:\Software\Fldr\BookStore day 9\BookStore.Models\obj\Debug\net6.0\ref\BookStore.Models.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Models\bin\Debug\net6.0\BookStore.Models.deps.json
+C:\Users\khush\source\repos\BookStore\BookStore.Models\bin\Debug\net6.0\BookStore.Models.runtimeconfig.json
+C:\Users\khush\source\repos\BookStore\BookStore.Models\bin\Debug\net6.0\BookStore.Models.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Models\bin\Debug\net6.0\BookStore.Models.pdb
+C:\Users\khush\source\repos\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.csproj.AssemblyReference.cache
+C:\Users\khush\source\repos\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khush\source\repos\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.AssemblyInfo.cs
+C:\Users\khush\source\repos\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Models\obj\Debug\net6.0\refint\BookStore.Models.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.pdb
+C:\Users\khush\source\repos\BookStore\BookStore.Models\obj\Debug\net6.0\BookStore.Models.genruntimeconfig.cache
+C:\Users\khush\source\repos\BookStore\BookStore.Models\obj\Debug\net6.0\ref\BookStore.Models.dll

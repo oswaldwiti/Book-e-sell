@@ -1,0 +1,71 @@
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\BookStore.Api.csproj.AssemblyReference.cache
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\BookStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\BookStore.Api.AssemblyInfoInputs.cache
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\BookStore.Api.AssemblyInfo.cs
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\BookStore.Api.csproj.CoreCompileInputs.cache
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\appsettings.Development.json
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\appsettings.json
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\BookStore.Api.exe
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\BookStore.Api.deps.json
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\BookStore.Api.runtimeconfig.json
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\BookStore.Api.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\BookStore.Api.pdb
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\Npgsql.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\BookStore.Models.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\BookStore.Repository.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\BookStore.Models.pdb
+E:\Software\Fldr\BookStore day 9\BookStore.Api\bin\Debug\net6.0\BookStore.Repository.pdb
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\scopedcss\bundle\BookStore.Api.styles.css
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\BookStore.Api.csproj.CopyComplete
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\BookStore.Api.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\refint\BookStore.Api.dll
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\BookStore.Api.pdb
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\BookStore.Api.genruntimeconfig.cache
+E:\Software\Fldr\BookStore day 9\BookStore.Api\obj\Debug\net6.0\ref\BookStore.Api.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\BookStore.Api.exe
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\BookStore.Api.deps.json
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\BookStore.Api.runtimeconfig.json
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\BookStore.Api.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\BookStore.Api.pdb
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\Npgsql.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\BookStore.Models.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\BookStore.Repository.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\BookStore.Models.pdb
+C:\Users\khush\source\repos\BookStore\BookStore.Api\bin\Debug\net6.0\BookStore.Repository.pdb
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\BookStore.Api.csproj.AssemblyReference.cache
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\BookStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\BookStore.Api.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\BookStore.Api.AssemblyInfo.cs
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\BookStore.Api.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\scopedcss\bundle\BookStore.Api.styles.css
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\BookStore.Api.csproj.CopyComplete
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\BookStore.Api.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\refint\BookStore.Api.dll
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\BookStore.Api.pdb
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\BookStore.Api.genruntimeconfig.cache
+C:\Users\khush\source\repos\BookStore\BookStore.Api\obj\Debug\net6.0\ref\BookStore.Api.dll
